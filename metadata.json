@@ -1,0 +1,8 @@
+{
+  "name": "DAT CLOUDE",
+  "description": "A high-end portfolio and service-based e-commerce platform for creative professionals, featuring specialized sections for video editing, merchandise design, and web development.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
