@@ -114,7 +114,7 @@ const Login: React.FC = () => {
                       <div className="flex gap-4">
                         <div className="w-6 h-6 rounded-full bg-gray-800 text-white flex items-center justify-center shrink-0 font-black text-[10px]">2</div>
                         <p className="text-gray-400 text-[10px] leading-relaxed">
-                          GO TO SUPABASE DASHBOARD -> AUTH -> PROVIDERS -> EMAIL AND <strong>DISABLE "CONFIRM EMAIL"</strong>.
+                          GO TO SUPABASE DASHBOARD -npm run deploy AUTH - PROVIDERS - EMAIL AND <strong>DISABLE "CONFIRM EMAIL"</strong>.
                         </p>
                       </div>
                       <div className="flex gap-4">
